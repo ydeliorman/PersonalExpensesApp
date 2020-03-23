@@ -1,16 +1,13 @@
 # personalexpensesapp
 
-Basic Personal Expenses app that allows you to add an expense. Chart displays last weeks expenses.
+Personal Expenses App allows you to add a transaction with name, price and date. Over the top, bar charts shows last 7 days expenses. This application is an introduction to Flutter and Dart language.
 
 ## Getting Started
 
-This project is a Flutter Application.
+In order to run this project;
 
-You should have Flutter and IDEA installed to run the project. You can check below resources:
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Idea Setup](https://flutter.dev/docs/get-started/editor?tab=androidstudio)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+steps must be done.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
