@@ -2,6 +2,8 @@
 
 Personal Expenses App allows you to add a transaction with name, price and date. Over the top, bar charts shows last 7 days expenses. This application is an introduction to Flutter and Dart language.
 
+![Alt text](https://github.com/ydeliorman/PersonalExpensesApp/blob/master/images/add_transaction.PNG)
+
 ## Getting Started
 
 In order to run this project;
